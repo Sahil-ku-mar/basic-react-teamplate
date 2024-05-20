@@ -10,10 +10,6 @@ function App() {
         type="submit"
         size="full"
       />
-      <Button 
-        bgColor="blue"
-        type="button"
-      />
     </div>
   );
 }
