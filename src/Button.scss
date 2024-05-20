@@ -1,0 +1,9 @@
+.button {
+    color: red;
+    border: 1px solid greenyellow;
+
+    & span {
+        font-size: 5px;
+    }
+}
+
